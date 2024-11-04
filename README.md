@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Chalex07
-- 👀 I’m interested in programing languages that would help me with macine learning and internet of things
-- 🌱 I’m currently learning python, just got to loops(while and for)
+- 👀 I’m interested in programing languages that would help me with macine learning, data management, UI/UX
+- 🌱 I’m currently learning python, Java Script, MYSQL, Dart and Flutter
 - 💞️ I’m looking to collaborate on any subject that would enhance my knowledge on programming
 - 📫 How to reach me ciheme4@gmail.com
-- 😄 Pronouns: "i don't do that shit"
 - ⚡ Fun fact: i have a very weird sense of humor so look out for that.
 
 <!---

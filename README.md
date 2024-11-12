@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chalex07
-- 👀 I’m interested in data management, UI/UX, JAVA, Python, Flutter, Dart
+- 👀 I’m interested in data management, Mobile app developmen, Web development and Simulations
 - 🌱 I’m currently learning @ World Quant Online University, where i have been learning about data sets using python and how to solve practical problems with them. i am also parrt of the Power Learn Projects Software Engineering class for August 2024, which is also adding to my experience and knowledge base.
 - 💞️ I’m looking to collaborate on any subject that would enhance my knowledge on programming
 - 📫 How to reach me ciheme4@gmail.com
